@@ -1,0 +1,6 @@
+browsersynctest
+===============
+
+
+run:
+`gulp watch`
